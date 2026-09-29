@@ -1,3 +1,3 @@
 # FirstProjectAbhigyanAnay
 This is my first Project
-Author-Abhigyan Anay
+Author-Abhigyan
